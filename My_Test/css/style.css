@@ -100,8 +100,8 @@ h2.display-6{
 /* ------------------------------------*/
 
 /* ---------------Navbar---------------*/
-nav{
-  padding-top: 65px !important;
+.nav_padding{
+  padding-top: 65px 
 }
 
 a.navbar-brand.navbar-left{
