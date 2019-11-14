@@ -60,13 +60,12 @@ color: #314584;
 .button_navigation:hover{
   color: #314584;
 }
-
 .full_size_button{
 	width:  100%;
 }
 
 button#main_page_button{
-	padding-left: 40px !important; 
+	padding: 20px 36px; 
 }
 
 button#rad_page_button{
