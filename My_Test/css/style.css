@@ -61,6 +61,10 @@ color: #314584;
   color: #314584;
 }
 
+.full_size_button{
+	width:  100%;
+}
+
 button#main_page_button{
 	padding-left: 40px !important; 
 }
